@@ -12,3 +12,5 @@ title: "Jason T. Stopas"
 
 This is the homepage of my portfolio. Use the links above to navigate.
 
+![Photo](images/PXL_20250115_195216582.jpg)
+
