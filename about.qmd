@@ -2,12 +2,6 @@
 title: "About"
 ---
 
-<div>
-  <a href="index.html">Home</a> |
-  <a href="projects.html">Projects</a> |
-  <a href="about.html">About</a>
-</div>
-
 # About Me
 
 This is the About page.
