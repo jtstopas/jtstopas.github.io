@@ -4,13 +4,13 @@
     "href": "index.html",
     "title": "Jason T. Stopas",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Home | Projects | Blog | About\n\n\nWelcome to My Portfolio\nThis is the homepage of my portfolio. Use the links above to navigate."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "Home | Projects | Blog | About\n\n\nAbout Me\nThis is the About page."
   }
 ]
