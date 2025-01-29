@@ -2,6 +2,14 @@
 title: "Jason T. Stopas"
 ---
 
-This is a Quarto website.
+<div>
+  <a href="index.html">Home</a> |
+  <a href="projects.html">Projects</a> |
+  <a href="blog.html">Blog</a> |
+  <a href="about.html">About</a>
+</div>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Welcome to My Portfolio
+
+This is the homepage of my portfolio. Use the links above to navigate.
+
