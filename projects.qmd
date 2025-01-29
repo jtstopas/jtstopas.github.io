@@ -2,8 +2,6 @@
 title: "Projects"
 ---
 
-# Projects
-
 Welcome to the Projects page
 
 Right now I'm studying and learning new things!
