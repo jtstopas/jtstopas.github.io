@@ -10,7 +10,7 @@ title: "Jason T. Stopas"
 
 # Welcome to My Portfolio
 
-This is the homepage of my portfolio. Use the links above to navigate.
+This is the homepage of my portfolio.  Use the links above to navigate.
 
-![Photo](images/PXL_20250115_195216582.jpg)
+![](images/PXL_20250115_195216582.jpg){height=600}
 
