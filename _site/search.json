@@ -11,6 +11,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Home | Projects | Blog | About\n\n\nAbout Me\nThis is the About page."
+    "text": "Home | Projects | About\n\n\nAbout Me\nThis is the About page."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Home | Projects | About\n\n\nProjects\nWelcome to the Projects page! Here’s where you can showcase your work."
   }
 ]
