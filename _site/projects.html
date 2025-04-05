@@ -137,7 +137,12 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>Welcome to the Projects page</p>
-<p>Right now I’m studying and learning new things!</p>
+<p>I’m currently pursuing studies in Business Analytics<br> I enjoy solving complex problems and finding real-world solutions</p>
+<p>Here are a few examples of some projects I’ve worked on:</p>
+<ul>
+<li><a href="working_files/STOPAS_Example_1.html" target="_blank">STOPAS Example 1</a></li>
+<li><a href="working_files/STOPAS_Example_2.html" target="_blank">STOPAS Example 2</a></li>
+</ul>
 
 
 
@@ -232,7 +237,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/jtstopas\.github\.io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
