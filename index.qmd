@@ -8,7 +8,9 @@ title: "Jason T. Stopas"
   <a href="about.html">About</a>
 </div>
 
-Welcome to my homepage!  Use the links above to navigate.
+# Welcome to My Portfolio
+
+Use the links above to navigate.
 
 ![](images/PXL_20250115_195216582.jpg){height=600}
 
