@@ -1,1 +1,39 @@
-/* css styles */
+/* Background for the whole page */
+body {
+  background: linear-gradient(to right, #f5f7fa, #c3cfe2);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Change link color */
+a {
+  color: #0056b3;
+}
+
+a:hover {
+  color: #003580;
+  text-decoration: underline;
+}
+
+/* Navbar styling */
+.navbar {
+  background-color: #1c5d99;
+}
+
+.navbar a, .navbar-brand {
+  color: white !important;
+}
+
+/* Customize headings */
+h1, h2, h3 {
+  color: #1c5d99;
+  font-weight: bold;
+}
+
+/* Content container style */
+main {
+  background-color: rgba(255, 255, 255, 0.95);
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
