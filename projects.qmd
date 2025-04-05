@@ -4,4 +4,9 @@ title: "Projects"
 
 Welcome to the Projects page
 
-Right now I'm studying and learning new things!
+I’m currently pursuing studies in Business Analytics and enjoy solving complex problems and finding real-world solutions
+
+Here are a few examples:
+
+- [STOPAS Example 1](working_files/STOPAS_Example_1.html){target="_blank"}
+- [STOPAS Example 2](working_files/STOPAS_Example_2.html){target="_blank"}
