@@ -1,6 +1,6 @@
 /* Outer background (entire site) */
 body {
-  background: url('images/old-brick-wall.jpg') no-repeat center center fixed;
+  background: url('images/chart.jpg') no-repeat center center fixed;
   background-size: cover;
   background-attachment: fixed;
   font-family: 'Segoe UI', sans-serif;
@@ -23,8 +23,8 @@ h1, h2, h3 {
 
 /* Content container (white overlay with background) */
 main {
-  background: linear-gradient(rgba(255,255,255,0.95), rgba(255,255,255,0.95)),
-              url('images/931294.jpg') no-repeat center center;
+  background: linear-gradient(rgba(255,255,255,0.85), rgba(255,255,255,0.85)),
+              url('images/old-brick-wall.jpg') no-repeat center center;
   background-size: cover;
   padding: 2rem;
   border-radius: 12px;
@@ -41,18 +41,24 @@ a:not(.project-button):hover {
   text-decoration: underline;
 }
 
-/* Button links */
-a.project-button {
+/* Button links (except navbar) */
+a:not(.navbar-brand):not(.nav-link) {
   background-color: #1c5d99;
   color: white !important;
   padding: 10px 20px;
-  margin: 10px 0;
+  margin: 10px 10px 10px 0;
   border-radius: 8px;
   display: inline-block;
   text-decoration: none;
+  font-weight: 500;
   transition: background-color 0.3s ease;
 }
 
-a.project-button:hover {
+a:not(.navbar-brand):not(.nav-link):hover {
   background-color: #003f6b;
+}
+
+
+img {
+  border-radius: 12px;
 }
