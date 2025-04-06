@@ -1,17 +1,9 @@
-/* Background for the whole page */
+/* Outer background (entire site) */
 body {
-  background: linear-gradient(to right, #f5f7fa, #c3cfe2);
+  background: url('images/931294.jpg') no-repeat center center fixed;
+  background-size: cover;
+  background-attachment: fixed;
   font-family: 'Segoe UI', sans-serif;
-}
-
-/* Change link color */
-a {
-  color: #0056b3;
-}
-
-a:hover {
-  color: #003580;
-  text-decoration: underline;
 }
 
 /* Navbar styling */
@@ -29,16 +21,28 @@ h1, h2, h3 {
   font-weight: bold;
 }
 
-/* Content container style */
+/* Content container (white overlay with background) */
 main {
-  background-color: rgba(255, 255, 255, 0.95);
-  padding: 1.5rem;
-  border-radius: 10px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  background: linear-gradient(rgba(255,255,255,0.95), rgba(255,255,255,0.95)),
+              url('images/old-brick-wall.jpg') no-repeat center center;
+  background-size: cover;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
-/* button links */
-a {
+/* Change link color for normal links */
+a:not(.project-button) {
+  color: #0056b3;
+}
+
+a:not(.project-button):hover {
+  color: #003580;
+  text-decoration: underline;
+}
+
+/* Button links */
+a.project-button {
   background-color: #1c5d99;
   color: white !important;
   padding: 10px 20px;
@@ -49,7 +53,6 @@ a {
   transition: background-color 0.3s ease;
 }
 
-a:hover {
+a.project-button:hover {
   background-color: #003f6b;
 }
-
