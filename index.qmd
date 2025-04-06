@@ -2,16 +2,9 @@
 title: "Jason T. Stopas"
 ---
 
-<div>
-  <a href="index.html">Home</a> |
-  <a href="projects.html">Projects</a> |
-  <a href="about.html">About</a>
-</div>
-
 # Welcome to My GitHub page
 
-Use the links above to navigate.
+Use the navigation bar above to explore my projects and learn more about me.
 
 ![](images/PXL_20250114_222106228~3_resize.jpg){height=200}
 ![](images/PXL_20250115_195216582.jpg){height=600}
-
