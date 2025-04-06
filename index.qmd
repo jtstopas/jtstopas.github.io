@@ -1,5 +1,6 @@
 ---
 title: "Jason T. Stopas"
+toc: false
 ---
 
 # Welcome to My GitHub page
