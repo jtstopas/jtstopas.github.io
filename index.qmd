@@ -1,5 +1,5 @@
 ---
-title: "Jason T. Stopas"
+title: "Jason Stopas"
 toc: false
 ---
 
