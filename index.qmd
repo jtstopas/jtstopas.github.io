@@ -12,6 +12,6 @@ title: "Jason T. Stopas"
 
 Use the links above to navigate.
 
-![](PXL_20250114_222106228~3_resize.jpg){height=200}
+![](images/PXL_20250114_222106228~3_resize.jpg){height=200}
 ![](images/PXL_20250115_195216582.jpg){height=600}
 
