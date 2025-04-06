@@ -11,3 +11,6 @@ Here are a few examples of some projects I've worked on:
 
 - [STOPAS Example 1](working_files/STOPAS_Example_1.html){target="_blank"}
 - [STOPAS Example 2](working_files/STOPAS_Example_2.html){target="_blank"}
+- [STOPAS Example 3](working_files/STOPAS_Example_3.html){target="_blank"}
+- [STOPAS Example 4](working_files/STOPAS_Example_4.pdf){target="_blank"}
+- [STOPAS Example 5](working_files/STOPAS_Example_5.pdf){target="_blank"}
