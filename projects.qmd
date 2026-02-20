@@ -4,10 +4,8 @@ title: "Projects"
 
 Welcome to the Projects page
 
-I’m currently pursuing studies in Business Analytics<br>
-I enjoy solving complex problems and finding real-world solutions
-
-Here are a few examples of some projects I've worked on:
+I recently completed an MS in Applied Business Analytics from Boston University (GPA: 3.71/4.00).<br> 
+Here are a few projects where I combined analytical thinking with hands-on operational experience to solve real problems.
 
 - [STOPAS Example 1](working_files/STOPAS_Example_1.html){target="_blank"}
 - [STOPAS Example 2](working_files/STOPAS_Example_2.html){target="_blank"}
