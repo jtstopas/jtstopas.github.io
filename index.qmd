@@ -1,11 +1,12 @@
 ---
-title: "Jason Stopas"
+title: "Jason Theodore Stopas"
 toc: false
 ---
 
 # Welcome to My GitHub page
 
-Use the navigation bar above to explore my projects and learn more about me.
+Data-driven analyst with an MS in Applied Business Analytics (Boston University) and a proven record leading high-stakes operational decision-making across maritime, agriculture, and construction environments. Combines hands-on field expertise with rigorous quantitative methods - bridging theory and practice in ways most analytics candidates cannot.
+Proficient in Python, SQL, and Excel, with applied experience in regression, classification, forecasting, and optimization. A clear communicator who translates analytical insight into operational strategy and stakeholder-ready narratives. USA and EU (Greece) citizen.
 
 ![](images/PXL_20250114_222106228~3_resize.jpg){height=200}
 ![](images/PXL_20250115_195216582.jpg){height=600}
